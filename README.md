@@ -241,3 +241,6 @@ This repository serves as the official landing page for Word to FlippingBook. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Word to FlippingBook today!**
+
+---
+**Last updated:** 2026-09-11 10:35:57 UTC
